@@ -1,0 +1,32 @@
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: normal;
+}
+
+span.stage-direction
+{
+    color: black;
+    background-color: cadetblue;    
+}
+#speach-di
+{
+    color: red;
+}
+.head1
+{
+    color:rebeccapurple;
+}
+.head2
+{
+    color: seagreen;
+}
+#title
+{
+    color: steelblue;
+}
+span.stage-direction:hover
+{
+    color:teal;
+    background-color:brown;    
+}
