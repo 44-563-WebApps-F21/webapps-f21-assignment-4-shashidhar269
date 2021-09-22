@@ -30,3 +30,29 @@ span.stage-direction:hover
     color:teal;
     background-color:brown;    
 }
+table
+{
+    border: 2px solid black;
+    width: 100%;
+}
+th{
+    border: solid 1px;
+    background-color: blanchedalmond;
+    padding: .3em;
+    text-align: center;
+}
+tr:nth-child(even)
+{
+    background-color: brown;
+    text-align: center;
+}
+tr:nth-child(odd)
+{
+    background-color: cadetblue;
+    text-align: center;
+}
+.name:hover
+{
+    color: chartreuse;
+    text-shadow: 1px 1px 3px green;
+}
