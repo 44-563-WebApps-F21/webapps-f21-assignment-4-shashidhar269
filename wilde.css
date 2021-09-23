@@ -55,6 +55,8 @@ tr:nth-child(odd)
 {
     color: chartreuse;
     text-shadow: 1px 1px 3px green;
+    border: chartreuse;
+    border-style: dotted;
 }
 .navbar {
     overflow: hidden;
